@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+nav{
+    font-family: 'Poppins-Regular';
+    font-size: 15px;
+    color: #333;
+    padding: 5px 0px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+
+.hidden-spacer {
+    height: 56px
+}
+.bg-dark{
+    background-color: white !important;
+}
+.active{
+    background-color: red;
+}
+.nav-link{
+    color:black;
+}
+.fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    background: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+  }
+ 
+
+
+
